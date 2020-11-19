@@ -22,7 +22,7 @@
             {
                 "order": 4,
                 "mediaShortCode": "CEFOU_tjJDg"
-            },
+            }
         ]
     },
     {
@@ -36,7 +36,15 @@
             {
                 "order": 1,
                 "mediaShortCode": "CDRvNBiDvzK"
-            }
+            },
+            {
+                "order": 2,
+                "mediaShortCode": "CGYBLkTjqdH"
+            },
+            {
+                "order": 3,
+                "mediaShortCode": "CCl_GFwjai_"
+            }  
         ]
     },
     {
