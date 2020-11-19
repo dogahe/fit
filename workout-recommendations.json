@@ -1,0 +1,109 @@
+[
+    {
+        "order": 0,
+        "title":"Dumbbell Workouts",
+        "workouts":[
+            {
+                "order": 0,
+                "mediaShortCode": "CEHzk4nDeM3"
+            },
+            {
+                "order": 1,
+                "mediaShortCode": "CG5eioRDB4z"
+            },
+            {
+                "order": 2,
+                "mediaShortCode": "CGnZOkojGyR"
+            },
+            {
+                "order": 3,
+                "mediaShortCode": "CFNUvCtD-6q"
+            },
+            {
+                "order": 4,
+                "mediaShortCode": "CEFOU_tjJDg"
+            },
+        ]
+    },
+    {
+        "order": 1,
+        "title":"Band Workouts",
+        "workouts":[
+            {
+                "order": 0,
+                "mediaShortCode": "CFfVtS1DyuP"
+            },
+            {
+                "order": 1,
+                "mediaShortCode": "CDRvNBiDvzK"
+            }
+        ]
+    },
+    {
+        "order": 2,
+        "title":"Kettlebell Workouts",
+        "workouts":[
+            {
+                "order": 0,
+                "mediaShortCode": "CHGdRnjDLDm"
+            },
+            {
+                "order": 1,
+                "mediaShortCode": "CF2gWDxjnVL"
+            },
+            {
+                "order": 2,
+                "mediaShortCode": "CCtneBNjwUx"
+            }
+        ]
+    },
+    {
+        "order": 3,
+        "title":"Leg Workouts",
+        "workouts":[
+            {
+                "order": 0,
+                "mediaShortCode": "CGqBQBWFIhg"
+            },
+            {
+                "order": 1,
+                "mediaShortCode": "CEHzk4nDeM3"
+            },
+            {
+                "order": 2,
+                "mediaShortCode": "CHOMTkHjTKV"
+            }
+        ]
+    },
+    {
+        "order": 4,
+        "title":"Glute Workouts",
+        "workouts":[
+        ]
+    },
+    {
+        "order": 5,
+        "title":"Abs Workout",
+        "workouts":[
+        ]
+    },
+    {
+        "order": 6,
+        "title":"Core Workout",
+        "workouts":[
+            {
+                "order": 0,
+                "mediaShortCode": "CD9grJlDkZP"
+            },
+            {
+                "order": 1,
+                "mediaShortCode": "CEPbUM4jREu"
+            }
+        ]
+    }
+]
+ 
+ 
+ 
+ 
+ 
