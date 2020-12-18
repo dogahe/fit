@@ -2,6 +2,28 @@
     {
         "order": 0,
         "title":"Dumbbell Workouts",
+        "preloaded_workouts":[
+            {
+                "order": 0,
+                "mediaShortCode": "CEHzk4nDeM3"
+            },
+            {
+                "order": 1,
+                "mediaShortCode": "CG5eioRDB4z"
+            },
+            {
+                "order": 2,
+                "mediaShortCode": "CGnZOkojGyR"
+            },
+            {
+                "order": 3,
+                "mediaShortCode": "CFNUvCtD-6q"
+            },
+            {
+                "order": 4,
+                "mediaShortCode": "CEFOU_tjJDg"
+            }
+        ],
         "recommended_workouts":[
             {
                 "order": 0,
@@ -28,6 +50,16 @@
     {
         "order": 1,
         "title":"Band Workouts",
+        "preloaded_workouts":[
+            {
+                "order": 0,
+                "mediaShortCode": "CFfVtS1DyuP"
+            },
+            {
+                "order": 1,
+                "mediaShortCode": "CDRvNBiDvzK"
+            }
+        ],
         "recommended_workouts":[
             {
                 "order": 0,
@@ -50,6 +82,20 @@
     {
         "order": 2,
         "title":"Kettlebell Workouts",
+        "preloaded_workouts":[
+            {
+                "order": 0,
+                "mediaShortCode": "CHGdRnjDLDm"
+            },
+            {
+                "order": 1,
+                "mediaShortCode": "CF2gWDxjnVL"
+            },
+            {
+                "order": 2,
+                "mediaShortCode": "CCtneBNjwUx"
+            }
+        ],
         "recommended_workouts":[
             {
                 "order": 0,
@@ -76,6 +122,20 @@
     {
         "order": 3,
         "title":"Leg Workouts",
+        "preloaded_workouts":[
+            {
+                "order": 0,
+                "mediaShortCode": "CGqBQBWFIhg"
+            },
+            {
+                "order": 1,
+                "mediaShortCode": "CEHzk4nDeM3"
+            },
+            {
+                "order": 2,
+                "mediaShortCode": "CHOMTkHjTKV"
+            }
+        ],
         "recommended_workouts":[
             {
                 "order": 0,
@@ -102,18 +162,32 @@
     {
         "order": 4,
         "title":"Glute Workouts",
+        "preloaded_workouts":[
+        ],
         "recommended_workouts":[
         ]
     },
     {
         "order": 5,
         "title":"Abs Workout",
+        "preloaded_workouts":[
+        ],
         "recommended_workouts":[
         ]
     },
     {
         "order": 6,
         "title":"Core Workout",
+        "preloaded_workouts":[
+            {
+                "order": 0,
+                "mediaShortCode": "CD9grJlDkZP"
+            },
+            {
+                "order": 1,
+                "mediaShortCode": "CEPbUM4jREu"
+            }
+        ],
         "recommended_workouts":[
             {
                 "order": 0,
