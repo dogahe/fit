@@ -2,7 +2,7 @@
     {
         "order": 0,
         "title":"Dumbbell Workouts",
-        "workouts":[
+        "recommended_workouts":[
             {
                 "order": 0,
                 "mediaShortCode": "CEHzk4nDeM3"
@@ -28,7 +28,7 @@
     {
         "order": 1,
         "title":"Band Workouts",
-        "workouts":[
+        "recommended_workouts":[
             {
                 "order": 0,
                 "mediaShortCode": "CFfVtS1DyuP"
@@ -50,7 +50,7 @@
     {
         "order": 2,
         "title":"Kettlebell Workouts",
-        "workouts":[
+        "recommended_workouts":[
             {
                 "order": 0,
                 "mediaShortCode": "CHGdRnjDLDm"
@@ -76,7 +76,7 @@
     {
         "order": 3,
         "title":"Leg Workouts",
-        "workouts":[
+        "recommended_workouts":[
             {
                 "order": 0,
                 "mediaShortCode": "CGqBQBWFIhg"
@@ -102,19 +102,19 @@
     {
         "order": 4,
         "title":"Glute Workouts",
-        "workouts":[
+        "recommended_workouts":[
         ]
     },
     {
         "order": 5,
         "title":"Abs Workout",
-        "workouts":[
+        "recommended_workouts":[
         ]
     },
     {
         "order": 6,
         "title":"Core Workout",
-        "workouts":[
+        "recommended_workouts":[
             {
                 "order": 0,
                 "mediaShortCode": "CD9grJlDkZP"
