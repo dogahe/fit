@@ -180,6 +180,8 @@
     {
         "order": 5,
         "title":"Abs Workout",
+        "system_image_name": "rectangle.roundedtop.fill",
+        "color_index": 0,
         "preloaded_workouts":[
         ],
         "recommended_workouts":[
