@@ -49,7 +49,7 @@
             }
         ]
     },
-    {
+    { 
         "order": 1,
         "title":"Band Workouts",
         "system_image_name": "oval.portrait",
@@ -71,14 +71,18 @@
             },
             {
                 "order": 1,
-                "mediaShortCode": "CDRvNBiDvzK"
+                "mediaShortCode": "CCT1jIfDZ3O"
             },
             {
                 "order": 2,
-                "mediaShortCode": "CGYBLkTjqdH"
+                "mediaShortCode": "CDRvNBiDvzK"
             },
             {
                 "order": 3,
+                "mediaShortCode": "CGYBLkTjqdH"
+            },
+            {
+                "order": 4,
                 "mediaShortCode": "CCl_GFwjai_"
             }  
         ]
