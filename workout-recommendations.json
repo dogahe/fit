@@ -24,6 +24,10 @@
             {
                 "order": 4,
                 "mediaShortCode": "CEFOU_tjJDg"
+            },
+            {
+                "order": 5,
+                "mediaShortCode": "CHidaKcpQPj"
             }
         ],
         "recommended_workouts":[
@@ -46,6 +50,10 @@
             {
                 "order": 4,
                 "mediaShortCode": "CEFOU_tjJDg"
+            },
+            {
+                "order": 5,
+                "mediaShortCode": "CHidaKcpQPj"
             }
         ]
     },
@@ -61,6 +69,11 @@
             },
             {
                 "order": 1,
+                "mediaShortCode": "CGPqIXspocJ"
+            },
+
+            {
+                "order": 2,
                 "mediaShortCode": "CDRvNBiDvzK"
             }
         ],
@@ -71,18 +84,22 @@
             },
             {
                 "order": 1,
-                "mediaShortCode": "CCT1jIfDZ3O"
+                "mediaShortCode": "CGPqIXspocJ"
             },
             {
                 "order": 2,
-                "mediaShortCode": "CDRvNBiDvzK"
+                "mediaShortCode": "CCT1jIfDZ3O"
             },
             {
                 "order": 3,
-                "mediaShortCode": "CGYBLkTjqdH"
+                "mediaShortCode": "CDRvNBiDvzK"
             },
             {
                 "order": 4,
+                "mediaShortCode": "CGYBLkTjqdH"
+            },
+            {
+                "order": 5,
                 "mediaShortCode": "CCl_GFwjai_"
             }  
         ]
@@ -126,7 +143,11 @@
             {
                 "order": 4,
                 "mediaShortCode": "CH00zxeD_l0"
-            }  
+            },
+            {
+                "order": 5,
+                "mediaShortCode": "CGAnmdkJXcc"
+            }   
         ]
     },
     {
@@ -189,25 +210,73 @@
         "system_image_name": "square.and.line.vertical.and.square",
         "color_index": 6,
         "preloaded_workouts":[
+            {
+                "order": 0,
+                "mediaShortCode": "CI6XbKcDYX1"
+            },
+            {
+                "order": 1,
+                "mediaShortCode": "CIybiYAD2L7"
+            },
+            {
+                "order": 2,
+                "mediaShortCode": "CIoOAjwj7wm"
+            }
         ],
         "recommended_workouts":[
+            {
+                "order": 0,
+                "mediaShortCode": "CI6XbKcDYX1"
+            },
+            {
+                "order": 1,
+                "mediaShortCode": "CIybiYAD2L7"
+            },
+            {
+                "order": 2,
+                "mediaShortCode": "CIoOAjwj7wm"
+            },
+            {
+                "order": 3,
+                "mediaShortCode": "CIjF4SCDLeU"
+            }
         ]
     },
     { 
         "order": 5,
-        "title":"Abs",
+        "title":"Ab",
         "system_image_name": "rectangle.roundedtop.fill",
         "color_index": 8,
         "preloaded_workouts":[
             {
                 "order": 0,
                 "mediaShortCode": "CIOZU7XhfLV"
+            },
+            {
+                "order": 1,
+                "mediaShortCode": "CHYXN08Ju54"
+            },
+            {
+                "order": 2,
+                "mediaShortCode": "CJB83mAj-nq"
             }
         ],
         "recommended_workouts":[
             {
                 "order": 0,
                 "mediaShortCode": "CIOZU7XhfLV"
+            },
+            {
+                "order": 1,
+                "mediaShortCode": "CHYXN08Ju54"
+            },
+            {
+                "order": 2,
+                "mediaShortCode": "CFzp1o3J6ZH"
+            },
+            {
+                "order": 3,
+                "mediaShortCode": "CJB83mAj-nq"
             }
         ]
     },
@@ -258,6 +327,14 @@
             {
                 "order": 2,
                 "mediaShortCode": "CHdeYT5hcZh"
+            },
+            {
+                "order": 3,
+                "mediaShortCode": "CHIsytIpMkl"
+            },
+            {
+                "order": 4,
+                "mediaShortCode": "CGKyvhxJMR3"
             }
         ],
         "recommended_workouts":[
@@ -272,6 +349,14 @@
             {
                 "order": 2,
                 "mediaShortCode": "CHdeYT5hcZh"
+            },
+            {
+                "order": 3,
+                "mediaShortCode": "CHIsytIpMkl"
+            },
+            {
+                "order": 4,
+                "mediaShortCode": "CGKyvhxJMR3"
             }
         ]
     },
@@ -305,17 +390,25 @@
         "order": 9,
         "title":"Chest",
         "system_image_name": "lungs.fill",
-        "color_index": 2,
+        "color_index": 1,
         "preloaded_workouts":[
             {
                 "order": 0,
                 "mediaShortCode": "CIYpxWsh2ua"
+            },
+            {
+                "order": 1,
+                "mediaShortCode": "CHidaKcpQPj"
             }
         ],
         "recommended_workouts":[
             {
                 "order": 0,
                 "mediaShortCode": "CIYpxWsh2ua"
+            },
+            {
+                "order": 1,
+                "mediaShortCode": "CHidaKcpQPj"
             }
         ]
     },
@@ -328,12 +421,20 @@
             {
                 "order": 0,
                 "mediaShortCode": "CHyIjOkh-mm"
+            },
+            {
+                "order": 1,
+                "mediaShortCode": "CGkm-NGpAIq"
             }
         ],
         "recommended_workouts":[
             {
                 "order": 0,
                 "mediaShortCode": "CHyIjOkh-mm"
+            },
+            {
+                "order": 1,
+                "mediaShortCode": "CGkm-NGpAIq"
             }
         ]
     },
@@ -372,5 +473,3 @@
         ]
     }
 ]
- 
- 
