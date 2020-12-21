@@ -131,7 +131,7 @@
     },
     {
         "order": 3,
-        "title":"Legs",
+        "title":"Leg",
         "system_image_name": "location.north.fill",
         "color_index": 4,
         "preloaded_workouts":[
@@ -141,10 +141,14 @@
             },
             {
                 "order": 1,
-                "mediaShortCode": "CEHzk4nDeM3"
+                "mediaShortCode": "CIgcp73JnV0"
             },
             {
                 "order": 2,
+                "mediaShortCode": "CEHzk4nDeM3"
+            },
+            {
+                "order": 3,
                 "mediaShortCode": "CHOMTkHjTKV"
             }
         ],
@@ -155,19 +159,27 @@
             },
             {
                 "order": 1,
-                "mediaShortCode": "CEHzk4nDeM3"
+                "mediaShortCode": "CIgcp73JnV0"
             },
             {
                 "order": 2,
-                "mediaShortCode": "CHOMTkHjTKV"
+                "mediaShortCode": "CEHzk4nDeM3"
             },
             {
                 "order": 3,
-                "mediaShortCode": "CHVvnrthXNt"
+                "mediaShortCode": "CHOMTkHjTKV"
             },
             {
                 "order": 4,
+                "mediaShortCode": "CHVvnrthXNt"
+            },
+            {
+                "order": 5,
                 "mediaShortCode": "B_LAOf8JUiP"
+            },
+            {
+                "order": 6,
+                "mediaShortCode": "CIWKR3UB1qG"
             }
         ]
     },
@@ -181,14 +193,22 @@
         "recommended_workouts":[
         ]
     },
-    {
+    { 
         "order": 5,
         "title":"Abs",
         "system_image_name": "rectangle.roundedtop.fill",
         "color_index": 8,
         "preloaded_workouts":[
+            {
+                "order": 0,
+                "mediaShortCode": "CIOZU7XhfLV"
+            }
         ],
         "recommended_workouts":[
+            {
+                "order": 0,
+                "mediaShortCode": "CIOZU7XhfLV"
+            }
         ]
     },
     {
@@ -214,12 +234,143 @@
             {
                 "order": 1,
                 "mediaShortCode": "CEPbUM4jREu"
+            },
+            {
+                "order": 1,
+                "mediaShortCode": "CIOZU7XhfLV"
+            }
+        ]
+    },
+    { 
+        "order": 7,
+        "title":"Shoulder",
+        "system_image_name": "square.split.2x1.fill",
+        "color_index": 4,
+        "preloaded_workouts":[
+            {
+                "order": 0,
+                "mediaShortCode": "CI_IFKHhfvq"
+            },
+            {
+                "order": 1,
+                "mediaShortCode": "CId5-tqBKnz"
+            },
+            {
+                "order": 2,
+                "mediaShortCode": "CHdeYT5hcZh"
+            }
+        ],
+        "recommended_workouts":[
+            {
+                "order": 0,
+                "mediaShortCode": "CI_IFKHhfvq"
+            },
+            {
+                "order": 1,
+                "mediaShortCode": "CId5-tqBKnz"
+            },
+            {
+                "order": 2,
+                "mediaShortCode": "CHdeYT5hcZh"
+            }
+        ]
+    },
+    {
+        "order": 8,
+        "title":"Arm",
+        "system_image_name": "arrowtriangle.right.fill.and.line.vertical.and.arrowtriangle.left.fill",
+        "color_index": 2,
+        "preloaded_workouts":[
+            {
+                "order": 0,
+                "mediaShortCode": "CIjAdgAB0O8"
+            },
+            {
+                "order": 1,
+                "mediaShortCode": "CHdeYT5hcZh"
+            }
+        ],
+        "recommended_workouts":[
+            {
+                "order": 0,
+                "mediaShortCode": "CIjAdgAB0O8"
+            },
+            {
+                "order": 1,
+                "mediaShortCode": "CHdeYT5hcZh"
+            }
+        ]
+    },
+    {
+        "order": 9,
+        "title":"Chest",
+        "system_image_name": "lungs.fill",
+        "color_index": 2,
+        "preloaded_workouts":[
+            {
+                "order": 0,
+                "mediaShortCode": "CIYpxWsh2ua"
+            }
+        ],
+        "recommended_workouts":[
+            {
+                "order": 0,
+                "mediaShortCode": "CIYpxWsh2ua"
+            }
+        ]
+    },
+    { 
+        "order": 9,
+        "title":"Biceps",
+        "system_image_name": "checkmark",
+        "color_index": 3,
+        "preloaded_workouts":[
+            {
+                "order": 0,
+                "mediaShortCode": "CHyIjOkh-mm"
+            }
+        ],
+        "recommended_workouts":[
+            {
+                "order": 0,
+                "mediaShortCode": "CHyIjOkh-mm"
+            }
+        ]
+    },
+    { 
+        "order": 10,
+        "title":"Full Body",
+        "system_image_name": "figure.stand",
+        "color_index": 5,
+        "preloaded_workouts":[
+            {
+                "order": 0,
+                "mediaShortCode": "CHs5aLyhpUR"
+            },
+            {
+                "order": 1,
+                "mediaShortCode": "CIBljcPBxKZ"
+            },
+            {
+                "order": 2,
+                "mediaShortCode": "CItVJj5ph9r"
+            }
+        ],
+        "recommended_workouts":[
+            {
+                "order": 0,
+                "mediaShortCode": "CHs5aLyhpUR"
+            },
+            {
+                "order": 1,
+                "mediaShortCode": "CIBljcPBxKZ"
+            },
+            {
+                "order": 2,
+                "mediaShortCode": "CItVJj5ph9r"
             }
         ]
     }
 ]
- 
- 
- 
  
  
