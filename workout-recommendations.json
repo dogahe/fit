@@ -91,7 +91,7 @@
         "order": 2,
         "title":"Kettlebell",
         "system_image_name": "scalemass.fill",
-        "color_index": 0,
+        "color_index": 7,
         "preloaded_workouts":[
             {
                 "order": 0,
@@ -185,7 +185,7 @@
         "order": 5,
         "title":"Abs",
         "system_image_name": "rectangle.roundedtop.fill",
-        "color_index": 0,
+        "color_index": 8,
         "preloaded_workouts":[
         ],
         "recommended_workouts":[
