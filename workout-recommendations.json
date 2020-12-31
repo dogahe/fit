@@ -175,6 +175,10 @@
             {
                 "order": 3,
                 "mediaShortCode": "CHOMTkHjTKV"
+            },
+            {
+                "order": 4,
+                "mediaShortCode": "CHqIxIfJmtR"
             }
         ],
         "recommended_workouts":[
@@ -209,6 +213,10 @@
             {
                 "order": 7,
                 "mediaShortCode": "CEzYozkpCZG"
+            },
+            {
+                "order": 8,
+                "mediaShortCode": "CHqIxIfJmtR"
             }
         ]
     },
@@ -389,6 +397,10 @@
             {
                 "order": 6,
                 "mediaShortCode": "CEhV8WSpXyK"
+            },
+            {
+                "order": 7,
+                "mediaShortCode": "CIGpwrjp6QY"
             }
         ]
     },
@@ -405,6 +417,10 @@
             {
                 "order": 1,
                 "mediaShortCode": "CHdeYT5hcZh"
+            },
+            {
+                "order": 2,
+                "mediaShortCode": "CIgbvpnpqUF"
             }
         ],
         "recommended_workouts":[
@@ -415,7 +431,15 @@
             {
                 "order": 1,
                 "mediaShortCode": "CHdeYT5hcZh"
-            }
+            },
+            {
+                "order": 2,
+                "mediaShortCode": "CIgbvpnpqUF"
+            },
+            {
+                "order": 3,
+                "mediaShortCode": "CH5wOrRJily"
+            }  
         ]
     },
     {
@@ -431,6 +455,10 @@
             {
                 "order": 1,
                 "mediaShortCode": "CHidaKcpQPj"
+            },
+            {
+                "order": 2,
+                "mediaShortCode": "CG8BcCzJb51"
             }
         ],
         "recommended_workouts":[
@@ -445,6 +473,10 @@
             {
                 "order": 2,
                 "mediaShortCode": "CFC2FZyphgX"
+            },
+            {
+                "order": 3,
+                "mediaShortCode": "CG8BcCzJb51"
             }
         ]
     },
