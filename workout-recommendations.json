@@ -289,7 +289,11 @@
             {
                 "order": 4,
                 "mediaShortCode": "CEjyujqJucX"
-            }
+            },
+            {
+                "order": 5,
+                "mediaShortCode": "CJRKA8SrRNo"
+            }  
         ]
     },
     {
@@ -305,7 +309,11 @@
             {
                 "order": 1,
                 "mediaShortCode": "CEPbUM4jREu"
-            }
+            },
+            {
+                "order": 2,
+                "mediaShortCode": "CJRKA8SrRNo"
+            }  
         ],
         "recommended_workouts":[
             {
@@ -317,9 +325,13 @@
                 "mediaShortCode": "CEPbUM4jREu"
             },
             {
-                "order": 1,
+                "order": 2,
                 "mediaShortCode": "CIOZU7XhfLV"
-            }
+            },
+            {
+                "order": 3,
+                "mediaShortCode": "CJRKA8SrRNo"
+            } 
         ]
     },
     { 
