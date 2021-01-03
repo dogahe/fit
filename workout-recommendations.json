@@ -66,6 +66,10 @@
             {
                 "order": 8,
                 "mediaShortCode": "CJgn3Szhq0i"
+            },
+            {
+                "order": 9,
+                "mediaShortCode": "CFfMJHRBE_G"
             }
         ]
     },
@@ -159,7 +163,11 @@
             {
                 "order": 5,
                 "mediaShortCode": "CGAnmdkJXcc"
-            }   
+            },
+            {
+                "order": 6,
+                "mediaShortCode": "CGxqlebBxmq"
+            }    
         ]
     },
     {
@@ -321,7 +329,15 @@
             {
                 "order": 5,
                 "mediaShortCode": "CJRKA8SrRNo"
-            }  
+            },
+            {
+                "order": 6,
+                "mediaShortCode": "CGfiS2WhukA"
+            },
+            {
+                "order": 7,
+                "mediaShortCode": "CGxqlebBxmq"
+            }   
         ]
     },
     {
@@ -425,6 +441,10 @@
             {
                 "order": 8,
                 "mediaShortCode": "CFvByxLB-3G"
+            },
+            {
+                "order": 9,
+                "mediaShortCode": "CG2xWTqHrjx"
             }
         ]
     },
@@ -463,7 +483,11 @@
             {
                 "order": 3,
                 "mediaShortCode": "CH5wOrRJily"
-            }  
+            },
+            {
+                "order": 4,
+                "mediaShortCode": "CG2xWTqHrjx"
+            }    
         ]
     },
     {
@@ -535,6 +559,14 @@
             {
                 "order": 2,
                 "mediaShortCode": "CFIEbF3Jmas"
+            },
+            {
+                "order": 3,
+                "mediaShortCode": "CF-Br_9BhqC"
+            },
+            {
+                "order": 4,
+                "mediaShortCode": "CHyIjOkh-mm"
             }
         ]
     },
@@ -569,6 +601,24 @@
             {
                 "order": 2,
                 "mediaShortCode": "CItVJj5ph9r"
+            }
+        ]
+    },
+    { 
+        "order": 11,
+        "title":"Triceps",
+        "system_image_name": "bolt.horizontal.fill",
+        "color_index": 3,
+        "preloaded_workouts":[
+            {
+                "order": 0,
+                "mediaShortCode": "CJgn3Szhq0i"
+            }
+        ],
+        "recommended_workouts":[
+            {
+                "order": 0,
+                "mediaShortCode": "CJgn3Szhq0i"
             }
         ]
     }
