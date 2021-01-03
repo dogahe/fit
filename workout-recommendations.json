@@ -613,12 +613,54 @@
             {
                 "order": 0,
                 "mediaShortCode": "CJgn3Szhq0i"
+            },
+            {
+                "order": 1,
+                "mediaShortCode": "CFSWZ1CJYos"
             }
         ],
         "recommended_workouts":[
             {
                 "order": 0,
                 "mediaShortCode": "CJgn3Szhq0i"
+            },
+            {
+                "order": 1,
+                "mediaShortCode": "CFSWZ1CJYos"
+            }
+        ]
+    },
+    { 
+        "order": 12,
+        "title":"Back",
+        "system_image_name": "rectangle.roundedbottom.fill",
+        "color_index": 5,
+        "preloaded_workouts":[
+            {
+                "order": 0,
+                "mediaShortCode": "CIQ2u6Rp64s"
+            },
+            {
+                "order": 1,
+                "mediaShortCode": "CHLZwrNpVkq"
+            }
+        ],
+        "recommended_workouts":[
+            {
+                "order": 0,
+                "mediaShortCode": "CIQ2u6Rp64s"
+            },
+            {
+                "order": 1,
+                "mediaShortCode": "CHLZwrNpVkq"
+            },
+            {
+                "order": 2,
+                "mediaShortCode": "CG-X_GypclF"
+            },
+            {
+                "order": 3,
+                "mediaShortCode": "CFxQWNJpYl2"
             }
         ]
     }
