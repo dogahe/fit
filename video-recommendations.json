@@ -9,6 +9,12 @@
 	}, {
 		"order": 1,
 		"youTubeId": "GViX8riaHX4"
+	}, {
+		"order": 2,
+		"youTubeId": "UY6-JzdnHUM"
+	}, {
+		"order": 3,
+		"youTubeId": "J4zKrvH5bFA"
 	}],
 	"preloaded_workouts": [{
 		"order": 0,
@@ -16,12 +22,6 @@
 	}, {
 		"order": 1,
 		"youTubeId": "J4zKrvH5bFA"
-	}, {
-		"order": 2,
-		"youTubeId": "y1r9toPQNkM"
-	}, {
-		"order": 3,
-		"youTubeId": "GViX8riaHX4"
 	}]
 }, {
 	"color_index": 1,
