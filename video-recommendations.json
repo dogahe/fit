@@ -2,7 +2,7 @@
 	"color_index": 3,
 	"order": 0,
 	"title": "Dumbbell",
-	"system_image_name": "circlebadge.2.fill",
+	"system_image_name": "dumbbell.fill",
 	"recommended_workouts": [{
 		"order": 0,
 		"youTubeId": "y1r9toPQNkM"
@@ -18,6 +18,24 @@
 	}, {
 		"order": 4,
 		"youTubeId": "w86EalEoFRY"
+	}, {
+		"order": 5,
+		"youTubeId": "GViX8riaHX4"
+	}, {
+		"order": 6,
+		"youTubeId": "e8XBtrv92fw"
+	}, {
+		"order": 7,
+		"youTubeId": "sinkIlViPG8"
+	}, {
+		"order": 8,
+		"youTubeId": "u1Izi-gQYuA"
+	}, {
+		"order": 9,
+		"youTubeId": "xoUHMebjFSs"
+	}, {
+		"order": 10,
+		"youTubeId": "eV-5FWDf0f8"
 	}],
 	"preloaded_workouts": [{
 		"order": 0,
