@@ -34,7 +34,7 @@
 		"order": 9,
 		"youTubeId": "xoUHMebjFSs"
 	}, {
-		"order": 9,
+		"order": 10,
 		"youTubeId": "Sa0sBKUiOvU"
 	}],
 	"preloaded_workouts": [{
@@ -58,12 +58,27 @@
 	}, {
 		"order": 2,
 		"youTubeId": "eoNEmlZ6Vz4"
+	}, {
+		"order": 3,
+		"youTubeId": "YLK2cVkhRKM"
+	}, {
+		"order": 4,
+		"youTubeId": "QG3TAwfo9iQ"
+	}, {
+		"order": 5,
+		"youTubeId": "TO3y0fH8Snw"
+	}, {
+		"order": 6,
+		"youTubeId": "u5d_WWs2I50"
+	}, {
+		"order": 7,
+		"youTubeId": "PfSoC-IZMOI"
+	}, {
+		"order": 8,
+		"youTubeId": "pxclra95Emk"
 	}],
 	"preloaded_workouts": [{
 		"order": 0,
 		"youTubeId": "YLK2cVkhRKM"
-	}, {
-		"order": 1,
-		"youTubeId": "8RQLkTGOtew"
 	}]
 }]
