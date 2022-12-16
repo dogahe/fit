@@ -81,4 +81,38 @@
 		"order": 0,
 		"youTubeId": "YLK2cVkhRKM"
 	}]
+}, {
+	"color_index": 1,
+	"order": 2,
+	"title": "Core",
+	"system_image_name": "figure.core.training",
+	"recommended_workouts": [{
+		"order": 0,
+		"youTubeId": "Ta8_ASDu9yk"
+	}, {
+		"order": 1,
+		"youTubeId": "stuPkzWMdIg"
+	}, {
+		"order": 2,
+		"youTubeId": "dJlFmxiL11s"
+	}, {
+		"order": 3,
+		"youTubeId": "YLK2cVkhRKM"
+	}, {
+		"order": 4,
+		"youTubeId": "QDUklXQJ_6E"
+	}, {
+		"order": 5,
+		"youTubeId": "AnYl6Nk9GOA"
+	}, {
+		"order": 6,
+		"youTubeId": "9p7-YC91Q74"
+	}, {
+		"order": 7,
+		"youTubeId": "VnvQbR6AqXM"
+	}],
+	"preloaded_workouts": [{
+		"order": 0,
+		"youTubeId": "9p7-YC91Q74"
+	}]
 }]
