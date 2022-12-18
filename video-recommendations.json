@@ -255,4 +255,40 @@
 		"order": 1,
 		"youTubeId": "ME0cj3FTbms"
 	}]
+}, {
+	"color_index": 8,
+	"order": 7,
+	"title": "Chest",
+	"system_image_name": "figure.mixed.cardio",
+	"recommended_workouts": [{
+		"order": 0,
+		"youTubeId": "0gVQFT4IiRE"
+	}, {
+		"order": 1,
+		"youTubeId": "jBhZWX91bec"
+	}, {
+		"order": 2,
+		"youTubeId": "4o1YzksPuqg"
+	}, {
+		"order": 3,
+		"youTubeId": "xCOjXzJA5IM"
+	}, {
+		"order": 4,
+		"youTubeId": "Jf5_PJCFs-g"
+	}, {
+		"order": 5,
+		"youTubeId": "TDtemhu9PjA"
+	}, {
+		"order": 6,
+		"youTubeId": "TY_AKLsYvCM"
+	}],
+	"preloaded_workouts": [{
+		"order": 0,
+		"youTubeId": "Jf5_PJCFs-g"
+	}, {
+		"order": 1,
+		"youTubeId": "0gVQFT4IiRE"
+	}]
 }]
+
+
