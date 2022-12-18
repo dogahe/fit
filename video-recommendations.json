@@ -115,4 +115,38 @@
 		"order": 0,
 		"youTubeId": "9p7-YC91Q74"
 	}]
+}, {
+	"color_index": 1,
+	"order": 3,
+	"title": "Kettlebell",
+	"system_image_name": "bell.fill",
+	"recommended_workouts": [{
+		"order": 0,
+		"youTubeId": "VCcar3MA07w"
+	}, {
+		"order": 1,
+		"youTubeId": "hzvZrSZhvVg"
+	}, {
+		"order": 2,
+		"youTubeId": "sqmoSME5fr0"
+	}, {
+		"order": 3,
+		"youTubeId": "jvH_gc9c1g8"
+	}, {
+		"order": 4,
+		"youTubeId": "YeIu6CX5AOo"
+	}, {
+		"order": 5,
+		"youTubeId": "UxfX7Z4am1Q"
+	}, {
+		"order": 6,
+		"youTubeId": "WnP79Rolnpg"
+	}],
+	"preloaded_workouts": [{
+		"order": 0,
+		"youTubeId": "VCcar3MA07w"
+	}, {
+		"order": 1,
+		"youTubeId": "hzvZrSZhvVg"
+	}]
 }]
