@@ -153,4 +153,38 @@
 		"order": 1,
 		"youTubeId": "hzvZrSZhvVg"
 	}]
+}, {
+	"color_index": 1,
+	"order": 4,
+	"title": "Leg",
+	"system_image_name": "figure.flexibility",
+	"recommended_workouts": [{
+		"order": 0,
+		"youTubeId": "Aghl8MqOm-E"
+	}, {
+		"order": 1,
+		"youTubeId": "HZDEMwTocYY"
+	}, {
+		"order": 2,
+		"youTubeId": "rma9n_xL1i0"
+	}, {
+		"order": 3,
+		"youTubeId": "8-PjpUH8TcE"
+	}, {
+		"order": 4,
+		"youTubeId": "q7rCeOa_m58"
+	}, {
+		"order": 5,
+		"youTubeId": "X0xt0fYTZv8"
+	}, {
+		"order": 6,
+		"youTubeId": "ZZI__bqlBkQ"
+	}],
+	"preloaded_workouts": [{
+		"order": 0,
+		"youTubeId": "Aghl8MqOm-E"
+	}, {
+		"order": 1,
+		"youTubeId": "X0xt0fYTZv8"
+	}]
 }]
