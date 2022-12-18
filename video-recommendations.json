@@ -1,5 +1,5 @@
 [{
-	"color_index": 3,
+	"color_index": 1,
 	"order": 0,
 	"title": "Dumbbell",
 	"system_image_name": "dumbbell.fill",
@@ -45,7 +45,7 @@
 		"youTubeId": "J4zKrvH5bFA"
 	}]
 }, {
-	"color_index": 1,
+	"color_index": 2,
 	"order": 1,
 	"title": "Band",
 	"system_image_name": "oval.portrait",
@@ -86,7 +86,7 @@
 		"youTubeId": "YLK2cVkhRKM"
 	}]
 }, {
-	"color_index": 1,
+	"color_index": 3,
 	"order": 2,
 	"title": "Core",
 	"system_image_name": "figure.core.training",
@@ -120,7 +120,7 @@
 		"youTubeId": "9p7-YC91Q74"
 	}]
 }, {
-	"color_index": 1,
+	"color_index": 4,
 	"order": 3,
 	"title": "Kettlebell",
 	"system_image_name": "bell.fill",
@@ -154,7 +154,7 @@
 		"youTubeId": "hzvZrSZhvVg"
 	}]
 }, {
-	"color_index": 1,
+	"color_index": 5,
 	"order": 4,
 	"title": "Leg",
 	"system_image_name": "figure.flexibility",
@@ -186,5 +186,39 @@
 	}, {
 		"order": 1,
 		"youTubeId": "X0xt0fYTZv8"
+	}]
+}, {
+	"color_index": 6,
+	"order": 5,
+	"title": "Stretches",
+	"system_image_name": "figure.pilates",
+	"recommended_workouts": [{
+		"order": 0,
+		"youTubeId": "QBqlh_wzFP0"
+	}, {
+		"order": 1,
+		"youTubeId": "cwzeyY4wB_I"
+	}, {
+		"order": 2,
+		"youTubeId": "D3TC-tz3TeQ"
+	}, {
+		"order": 3,
+		"youTubeId": "2eA2Koq6pTI"
+	}, {
+		"order": 4,
+		"youTubeId": "HzXkMnvqojE"
+	}, {
+		"order": 5,
+		"youTubeId": "sTANio_2E0Q"
+	}, {
+		"order": 6,
+		"youTubeId": "zWt8VRHxxgs"
+	}],
+	"preloaded_workouts": [{
+		"order": 0,
+		"youTubeId": "QBqlh_wzFP0"
+	}, {
+		"order": 1,
+		"youTubeId": "zWt8VRHxxgs"
 	}]
 }]
