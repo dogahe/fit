@@ -221,4 +221,38 @@
 		"order": 1,
 		"youTubeId": "zWt8VRHxxgs"
 	}]
+}, {
+	"color_index": 7,
+	"order": 6,
+	"title": "Arm",
+	"system_image_name": "figure.wave",
+	"recommended_workouts": [{
+		"order": 0,
+		"youTubeId": "Y346900i9qE"
+	}, {
+		"order": 1,
+		"youTubeId": "UY6-JzdnHUM"
+	}, {
+		"order": 2,
+		"youTubeId": "UyTR2EjTAXU"
+	}, {
+		"order": 3,
+		"youTubeId": "l0CwCvJbGZI"
+	}, {
+		"order": 4,
+		"youTubeId": "wRDMFP3ihkE"
+	}, {
+		"order": 5,
+		"youTubeId": "J4zKrvH5bFA"
+	}, {
+		"order": 6,
+		"youTubeId": "ME0cj3FTbms"
+	}],
+	"preloaded_workouts": [{
+		"order": 0,
+		"youTubeId": "UY6-JzdnHUM"
+	}, {
+		"order": 1,
+		"youTubeId": "ME0cj3FTbms"
+	}]
 }]
